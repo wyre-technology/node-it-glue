@@ -1,3 +1,16 @@
+# 1.0.0 (2026-02-05)
+
+
+### Bug Fixes
+
+* Add semantic-release plugins as devDependencies ([e6c7712](https://github.com/asachs01/node-it-glue/commit/e6c771231d30e2bb4b8d7d57bfea61708c573146))
+
+
+### Features
+
+* Implement remaining resource classes for full API coverage ([238bb51](https://github.com/asachs01/node-it-glue/commit/238bb517f48cd313a1d2189cf2353e751972d0e9))
+* Initial project setup with core infrastructure ([75c1acf](https://github.com/asachs01/node-it-glue/commit/75c1acf160d75362f9e4ded1fc4a098aa81f010e))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
