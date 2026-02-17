@@ -1,5 +1,5 @@
 {
-  "name": "@asachs01/node-it-glue",
+  "name": "@wyre-technology/node-it-glue",
   "version": "1.0.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asachs01/node-it-glue.git"
+    "url": "git+https://github.com/wyre-technology/node-it-glue.git"
   },
   "keywords": [
     "it-glue",
@@ -43,9 +43,9 @@
   "author": "Aaron Sachs / WYRE Technology",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/asachs01/node-it-glue/issues"
+    "url": "https://github.com/wyre-technology/node-it-glue/issues"
   },
-  "homepage": "https://github.com/asachs01/node-it-glue#readme",
+  "homepage": "https://github.com/wyre-technology/node-it-glue#readme",
   "engines": {
     "node": ">=18.0.0"
   },
